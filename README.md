@@ -1,1 +1,1 @@
-# MCSwork
+Student Marks Management System
